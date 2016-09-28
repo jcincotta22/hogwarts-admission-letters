@@ -1,0 +1,72 @@
+@import 'stylesheets/Colors';
+@import 'stylesheets/App';
+
+
+.image {
+  height: 70px;
+
+}
+
+.all {
+  background-color: #E0D2AB;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  border: 2px solid black;
+}
+.field {
+  width: 7rem;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.pic {
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font-weight: bold;
+}
+
+.headingDiv {
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+p {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.n1 {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.inputDiv {
+  width: 27rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.n2 {
+  margin-top: -5px;
+
+}
+
+.input {
+  height: 27px;
+  width: 14rem;
+  float: right;
+}
+
+.button {
+  height: 25px;
+  width: 75px;
+  font-size: 10px;
+}
